@@ -17,7 +17,7 @@ tmp_srcrequest = tools.get_srcrequest_from_fileRequest(fileRequest)
 
 # tmp_srcrequest.get_header()
 # tmp_srcrequest.get_post_data_str()
-# tmp_srcrequest.do_post_request()
+tmp_srcrequest.do_post_request()
 
 # print tools.get_patam_json_from_dict({})
 print tmp_srcrequest.out_poc_csrf_html()

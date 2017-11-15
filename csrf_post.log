@@ -1,0 +1,80 @@
+﻿POST http://cn.made-in-china.com/inquiry.do?xcase=sendInquiry HTTP/1.1
+Host: cn.made-in-china.com
+Content-Length: 1801
+Cache-Control: max-age=0
+Origin: null
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36 Maxthon/5.1.3.1000
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryLY96mLehbhhAYyIj
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN
+Connection: close
+Proxy-Connection: Keep-Alive
+
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="js-logon-pos"
+
+inquiry
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="subject"
+
+CSRFå®å¨æµè¯;
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="content"
+
+CSRFå®å¨æµè¯
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="senderCom"
+
+CSRFå®å¨æµè¯
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="senderName"
+
+CSRFå®å¨æµè¯
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="senderSex"
+
+1
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="senderTel"
+
+1825000321
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="senderMail"
+
+1825000321@qq.com
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="sourceId"
+
+qMrnSsRuXhYb
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="receiverComId"
+
+qMrnSsRuXhYb
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="sourceType"
+
+shrom
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="src"
+
+
+
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="contactSrc"
+
+http://yulikui2011.cn.made-in-china.com#page4
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="comSrc"
+
+http://yulikui2011.cn.made-in-china.com
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="encryptSuss"
+
+0
+------WebKitFormBoundaryLY96mLehbhhAYyIj
+Content-Disposition: form-data; name="soruceView"
+
+shrom
+------WebKitFormBoundaryLY96mLehbhhAYyIj--
